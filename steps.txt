@@ -1,0 +1,13 @@
+1. git init till push
+
+2. gitignore python add manully
+
+3. setup.py and requirments.txt
+
+4. write code for setup.py 
+
+5. create src with __init__.py into it to get information to setup.py about the packages 
+
+6. to run install this project we need to install requirments.txt and run setup.py seprately to overcome this we can run install only requirment.txt with one line added to it "-e ." with this just we need to install requirments.txt we dont need to run setup.py seprately because this will run automatically with "-e ."
+
+
